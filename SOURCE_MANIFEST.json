@@ -12,7 +12,7 @@
     "source": "scripts/run_figure2c_wgcna_6programme.R",
     "purpose": "Existing module eigengenes versus six gene-z-mean programmes",
     "source_sha256": "4dd9e9e0c38ec03d9ed0787e71d46f49413a670aabd6244dbd36da578b191338",
-    "release_sha256": "8b45fbeaa9a2ad3148fa36a77ad8d50079a6f752312c4fb2fb56e00e5a8bd51b",
+    "release_sha256": "1891440bced6fe67e4a3b4c81919115540937fb22e979d72de1b3381fc755089",
     "changes": "Project root made configurable via OC_PROJECT_ROOT; UTF-8/LF normalization."
   },
   {
