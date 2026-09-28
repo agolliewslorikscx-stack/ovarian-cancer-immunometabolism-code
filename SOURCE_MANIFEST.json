@@ -1,0 +1,42 @@
+[
+  {
+    "file": "analysis/mr_pair_worker.R",
+    "source": "OC_MR_Project/OC_MR_DIET_OC_OMEGA3_PROTECTIVE_V1_WORKER.R",
+    "purpose": "Single exposure-outcome two-sample MR worker",
+    "source_sha256": "2e2467a9050789782af05d11fb56e39b90984726df9912449a1382e7975ad8fb",
+    "release_sha256": "2e2467a9050789782af05d11fb56e39b90984726df9912449a1382e7975ad8fb",
+    "changes": "UTF-8/LF normalization only."
+  },
+  {
+    "file": "analysis/module_programme_association.R",
+    "source": "scripts/run_figure2c_wgcna_6programme.R",
+    "purpose": "Existing module eigengenes versus six gene-z-mean programmes",
+    "source_sha256": "4dd9e9e0c38ec03d9ed0787e71d46f49413a670aabd6244dbd36da578b191338",
+    "release_sha256": "8b45fbeaa9a2ad3148fa36a77ad8d50079a6f752312c4fb2fb56e00e5a8bd51b",
+    "changes": "Project root made configurable via OC_PROJECT_ROOT; UTF-8/LF normalization."
+  },
+  {
+    "file": "analysis/core_gene_prioritization.R",
+    "source": "scripts/run_figure2e_core_genes.R",
+    "purpose": "MEblue and MEbrown intramodular core-gene prioritization",
+    "source_sha256": "669283cfab0b3db739e5921af77fda41cdc9535984166f7b2ea8711ef1cd7424",
+    "release_sha256": "a1453c88eb00c3ff2e8f9e8439de31ee6ce5fecb7809e01e4f799163e434bf50",
+    "changes": "Project root made configurable via OC_PROJECT_ROOT; UTF-8/LF normalization."
+  },
+  {
+    "file": "analysis/module_enrichment.R",
+    "source": "scripts/run_fig3a_meblue_mebrown_enrichment.R",
+    "purpose": "Hallmark, Reactome and GO BP over-representation analysis",
+    "source_sha256": "d025a3671a6b9aaeab158217916db80a83121ea6f10fdef34e0221ea9d3dacd7",
+    "release_sha256": "a9fed0e269630e4dbd7af07a3a93bcd5c548e61cfaf3cca434b6cadd928a7eca",
+    "changes": "Project root made configurable via OC_PROJECT_ROOT; UTF-8/LF normalization."
+  },
+  {
+    "file": "analysis/donor_cell_composition.R",
+    "source": "scripts/run_fig4_cell_composition_violin.R",
+    "purpose": "Donor-level broad cell-compartment composition",
+    "source_sha256": "9352008d6541584f360d8133c3bf438d6f2b1bb117f9e7dd30a322291b5b7ae6",
+    "release_sha256": "23ecf951654fb487b426a1a921436be9edc9ec6a467e43d5b0782b5f8e8ae483",
+    "changes": "Project root made configurable via OC_PROJECT_ROOT; UTF-8/LF normalization."
+  }
+]
